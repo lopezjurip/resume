@@ -142,3 +142,9 @@ Startup Weekend Santiago
   Manage classroom repositories on Github.
 
 -------
+
+### Footer {#footer}
+
+Written in Markdown, source: [mrpatiwi/resume](https://github.com/mrpatiwi/resume).
+
+------
