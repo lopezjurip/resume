@@ -1,5 +1,5 @@
 # Patricio López Juri
-## 22 years old | Santiago, Chile | Resumé
+## Resumé
 
 > [lopezjuripatricio@gmail.com](mailto:lopezjuripatricio@gmail.com)  
 > [https://lopezjuri.com](https://lopezjuri.com)  
@@ -42,7 +42,7 @@ Pontifical Catholic University of Chile
   : `Ruby`, `SQL`, `Bash`.
 
 * Basic
-  : `C`, `Go`, `Scala`.
+  : `C`, `Go`, `Scala`, `Swift`.
 
 ------
 
