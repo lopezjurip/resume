@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Patricio López Juri",
+    "label": "Full-stack developer",
+    "picture": "",
+    "email": "patricio@lopezjuri.com",
+    "website": "https://lopezjuri.com",
+    "summary": "Software Engineer student from Santiago, Chile.",
+    "location": {
+      "city": "Santiago",
+      "countryCode": "CL",
+      "region": "Santiago Centro"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "mrpatiwi",
+        "url": "https://twitter.com/MrPatiwi"
+      },
+      {
+        "network": "Github",
+        "username": "mrpatiwi",
+        "url": "https://github.com/mrpatiwi"
+      },
+      {
+        "network": "Linkedin",
+        "username": "lopezjuri",
+        "url": "https://www.linkedin.com/in/lopezjuri"
+      },
+      {
+        "network": "Last.fm",
+        "username": "B4cKW4rd",
+        "url": "http://www.last.fm/es/user/B4cKW4rd"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Web Technologies And Applications (IIC2513)",
+      "position": "Teaching Assistant",
+      "website": "https://github.com/IIC2233-2015-1",
+      "startDate": "2015-03-05",
+      "summary": "This course uses Ruby on Rails as the main framework."
+    },
+    {
+      "company": "Advanced Programing (IIC2233)",
+      "position": "Head Teaching Assistant",
+      "website": "https://github.com/IIC2233-2015-1",
+      "startDate": "2015-03-05",
+      "endDate": "2015-12-11",
+      "summary": "This is the main introductory course to Software Engineering, TI or Computer Sciene degree at the Pontifical Catholic University of Chile. The main programing language is Python.",
+      "highlights": [
+        "Course refactoring from C# and SVN to Python and Git to fit current development tools and standards.",
+        "Setup of all Git repositories and their mantenence.",
+        "Development of administrative tools to automate repository administration.",
+        "Code reviewer of course material and activities"
+      ]
+    },
+    {
+      "company": "Advanced Programing (IIC2233)",
+      "position": "Teaching Assistant",
+      "website": "https://github.com/IIC2233-2015-1",
+      "startDate": "2013-08-05",
+      "endDate": "2014-12-11",
+      "summary": "This is the main introductory course to Software Engineering, TI or Computer Sciene degree at the Pontifical Catholic University of Chile. The main programing language was C#."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pontifical Catholic University of Chile",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012-03-01",
+      "gpa": "4.98 / 7.0",
+      "courses": [
+        "MAT1203 - Linear Algebra",
+        "MAT16XX - Calculus",
+        "IIC1253 - Discrete Mathematics",
+        "IIC2113 - Detailed Software Design",
+        "IIC2133 - Data Structures And Algorithms",
+        "IIC2143 - Software Engineering",
+        "IIC2173 - Architecture Of Software Systems",
+        "IIC2233 - Advanced Programing",
+        "IIC2343 - Computer Architecture",
+        "IIC2413 - Data Bases",
+        "IIC2433 - Data Mining",
+        "IIC2513 - Web Technologies and Applications",
+        "IIC3585 - Advanced Web Applications Design",
+        "ICS1113 - Optimization",
+        "ICS1513 - Introduction to Economics",
+        "ICS2523 - Microeconomics",
+        "ICS2123 - Stochastic Models",
+        "EYP1113 - Probability & Statistics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Social app winner",
+      "awarder": "chilehack.cl",
+      "summary": "Development of a Windows Phone app. Measure your party’s loudness."
+    },
+    {
+      "title": "Startup Weekend Santiago, 2º place",
+      "awarder": "santiago.startupweekend.org",
+      "summary": "Development of a iOS app. Contract reminder app for bussiness."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Coding",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "C#",
+        "Go",
+        "Java",
+        "Javascript",
+        "Typescript",
+        "Ruby",
+        "Objetive-C",
+        "C"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "Master",
+      "keywords": [
+        "Code quality measurement",
+        "Code Review",
+        "Code documentation",
+        "Unit testing"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "Node.js",
+        "Gin",
+        "Ruby on Rails",
+        "Sinatra",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "Angular.js",
+        "React.js",
+        "Polymer",
+        "jQuery",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Master",
+      "keywords": [
+        "iOS",
+        "Android",
+        "Windows Phone",
+        "React-Native"
+      ]
+    },
+    {
+      "name": "Desktop Development",
+      "level": "Master",
+      "keywords": [
+        ".NET",
+        "Cross-platform",
+        "CLI"
+      ]
+    },
+    {
+      "name": "Deployment",
+      "level": "Master",
+      "keywords": [
+        "Ubuntu server",
+        "Microservices",
+        "Container-Based architecture",
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "Continuous integration",
+        "Server monitoring"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Pop culture",
+      "keywords": [
+        "Music",
+        "Movies",
+        "Videogames"
+      ]
+    },
+    {
+      "name": "Ideology",
+      "keywords": [
+        "Open Source",
+        "Free Knowledge"
+      ]
+    }
+  ]
+}

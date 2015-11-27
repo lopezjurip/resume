@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Personal resume",
+  "main": "index.js",
+  "scripts": {
+    "pdf": "resume export index.pdf --theme=short",
+    "html": "resume export index.html --theme=short",
+    "start": "npm run pdf && npm run html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpatiwi/resume.git"
+  },
+  "author": "Patricio López <patricio@lopezjuri.com> (https://lopezjuri.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrpatiwi/resume/issues"
+  },
+  "homepage": "https://github.com/mrpatiwi/resume#readme",
+  "devDependencies": {
+    "resume-cli": "^0.4.8"
+  }
+}
