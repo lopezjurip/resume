@@ -64,6 +64,19 @@
       "startDate": "2013-08-05",
       "endDate": "2014-12-11",
       "summary": "This is the main introductory course to Software Engineering, TI or Computer Sciene degree at the Pontifical Catholic University of Chile. The main programing language was C#."
+    },
+    {
+      "company": "Alma Máter UC",
+      "position": "Personal project",
+      "website": "https://www.facebook.com/AlmaMaterApp",
+      "startDate": "2014-01-05",
+      "endDate": "2014-07-05",
+      "summary": "UC's unofficial mobile app for iOS and Android.",
+      "highlights": [
+        "Research and implementation on how to integrate the university services.",
+        "Mapping of the majority of classrooms.",
+        "More than 15.000 downloads."
+      ]
     }
   ],
   "education": [
