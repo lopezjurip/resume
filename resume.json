@@ -1,36 +1,31 @@
 {
   "basics": {
     "name": "Patricio López Juri",
-    "label": "Full-stack developer",
+    "label": "Full-Stack Developer",
     "picture": "",
     "email": "patricio@lopezjuri.com",
     "website": "https://lopezjuri.com",
-    "summary": "Software Engineer student from Santiago, Chile.",
+    "summary": "Software Engineering student and full-stack developer passionate in producing real solutions using the best tools available. Interested in \textit{state of the art} technology. Focused in high quality code and top-tier development/deployment procedures. Always up to date in news related to computer science, software engineering and information technologies. Enthusiastic in sharing and teaching the acquired knowledge.",
     "location": {
-      "city": "Santiago",
+      "city": "Santiago Centro",
       "countryCode": "CL",
-      "region": "Santiago Centro"
+      "region": "Santiago"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "mrpatiwi",
-        "url": "https://twitter.com/MrPatiwi"
-      },
       {
         "network": "Github",
         "username": "mrpatiwi",
         "url": "https://github.com/mrpatiwi"
       },
       {
+        "network": "Twitter",
+        "username": "mrpatiwi",
+        "url": "https://twitter.com/MrPatiwi"
+      },
+      {
         "network": "Linkedin",
         "username": "lopezjuri",
         "url": "https://www.linkedin.com/in/lopezjuri"
-      },
-      {
-        "network": "Last.fm",
-        "username": "B4cKW4rd",
-        "url": "http://www.last.fm/es/user/B4cKW4rd"
       }
     ]
   },
@@ -40,10 +35,15 @@
       "position": "Teaching Assistant",
       "website": "https://github.com/IIC2233-2015-1",
       "startDate": "2015-03-05",
-      "summary": "This course uses Ruby on Rails as the main framework."
+      "endDate": "2015-12-11",
+      "summary": "This course uses Ruby on Rails as the main framework.",
+      "highlights": [
+        "Designed course architecture on top of Github.",
+        "Project reviewer and guide."
+      ]
     },
     {
-      "company": "Advanced Programing (IIC2233)",
+      "company": "Advanced Programming (IIC2233)",
       "position": "Head Teaching Assistant",
       "website": "https://github.com/IIC2233-2015-1",
       "startDate": "2015-03-05",
@@ -51,13 +51,14 @@
       "summary": "This is the main introductory course to Software Engineering, TI or Computer Sciene degree at the Pontifical Catholic University of Chile. The main programing language is Python.",
       "highlights": [
         "Course refactoring from C# and SVN to Python and Git to fit current development tools and standards.",
-        "Setup of all Git repositories and their mantenence.",
+        "Designed course architecture on top of Github.",
+        "Setup of all Git repositories and their maintenance.",
         "Development of administrative tools to automate repository administration.",
         "Code reviewer of course material and activities"
       ]
     },
     {
-      "company": "Advanced Programing (IIC2233)",
+      "company": "Advanced Programming (IIC2233)",
       "position": "Teaching Assistant",
       "website": "https://github.com/IIC2233-2015-1",
       "startDate": "2013-08-05",
@@ -71,7 +72,7 @@
       "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2012-03-01",
-      "gpa": "4.98 / 7.0",
+      "gpa": "5.04 / 7.0",
       "courses": [
         "MAT1203 - Linear Algebra",
         "MAT16XX - Calculus",
@@ -80,7 +81,7 @@
         "IIC2133 - Data Structures And Algorithms",
         "IIC2143 - Software Engineering",
         "IIC2173 - Architecture Of Software Systems",
-        "IIC2233 - Advanced Programing",
+        "IIC2233 - Advanced Programming",
         "IIC2343 - Computer Architecture",
         "IIC2413 - Data Bases",
         "IIC2433 - Data Mining",
@@ -118,7 +119,7 @@
         "Javascript",
         "Typescript",
         "Ruby",
-        "Objetive-C",
+        "Objective-C",
         "C"
       ]
     },
@@ -126,10 +127,23 @@
       "name": "Development",
       "level": "Master",
       "keywords": [
-        "Code quality measurement",
-        "Code Review",
-        "Code documentation",
+        "Version Control (git)",
+        "Code quality",
+        "Code review",
+        "Documentation",
         "Unit testing"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "Postgres",
+        "SQLite",
+        "MongoDB",
+        "Neo4J",
+        "Redis",
+        "Realm.io"
       ]
     },
     {
@@ -137,6 +151,7 @@
       "level": "Master",
       "keywords": [
         "Node.js",
+        "Express.js",
         "Gin",
         "Ruby on Rails",
         "Sinatra",
@@ -187,6 +202,15 @@
         "Continuous integration",
         "Server monitoring"
       ]
+    },
+    {
+      "name": "Other",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "nginx",
+        "Library and module development (npm, pypi, gems, cocoapods)"
+      ]
     }
   ],
   "languages": [
@@ -201,8 +225,15 @@
   ],
   "interests": [
     {
-      "name": "Pop culture",
+      "name": "Education",
       "keywords": [
+        "Teaching"
+      ]
+    },
+    {
+      "name": "Media",
+      "keywords": [
+        "Culture",
         "Music",
         "Movies",
         "Videogames"
