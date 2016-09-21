@@ -4,8 +4,8 @@
   "description": "Personal resume",
   "main": "index.js",
   "scripts": {
-    "pdf": "resume export index.pdf --theme=short",
-    "html": "resume export index.html --theme=short",
+    "pdf": "node ./node_modules/.bin/resume export index.pdf --format pdf --theme short",
+    "html": "node ./node_modules/.bin/resume export index.html --theme short",
     "start": "npm run pdf && npm run html"
   },
   "repository": {

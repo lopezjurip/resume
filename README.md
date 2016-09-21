@@ -8,5 +8,5 @@ $ npm install
 
 Export to `.pdf` and `.html`:
 ```sh
-$ npm init
+$ npm start
 ```

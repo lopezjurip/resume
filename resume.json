@@ -26,17 +26,59 @@
         "network": "Linkedin",
         "username": "lopezjuri",
         "url": "https://www.linkedin.com/in/lopezjuri"
+      },
+      {
+        "network": "Medium",
+        "username": "patriciolpezjuri",
+        "url": "https://medium.com/@patriciolpezjuri"
       }
     ]
   },
   "work": [
+    {
+      "company": "Advanced Design of Web Applications (IIC3585)",
+      "position": "Head Teaching Assistant",
+      "website": "https://github.com/IIC3585-2016-2",
+      "startDate": "2016-08-01",
+      "endDate": "2016-12-05",
+      "summary": "Teaching the state-of-art of the web development.",
+      "highlights": [
+        "Designed course architecture on top of Github.",
+        "Teaching Node.js, React.js, Angular2 and more.",
+        "Review student's homework."
+      ]
+    },
+    {
+      "company": "Detailed Software Design (IIC2113)",
+      "position": "Teaching Assistant",
+      "website": "https://github.com/IIC2113-2016-2",
+      "startDate": "2016-08-01",
+      "endDate": "2016-12-05",
+      "summary": "Teaching the software design patterns, good practices, metrics, refactoring and testing.",
+      "highlights": [
+        "Designed course architecture on top of Github.",
+        "Participation in the refactoring of the course.",
+        "Design and evaluate homework and exams."
+      ]
+    },
+    {
+      "company": "Architecture Of Software Systems (IIC2173)",
+      "position": "Head Teaching Assistant",
+      "startDate": "2016-08-01",
+      "endDate": "2016-12-05",
+      "summary": "Course focused in big-scale software and architectural design.",
+      "highlights": [
+        "Teaching software deployment with tools like Docker.",
+        "Review student's project progress."
+      ]
+    },
     {
       "company": "Web Technologies And Applications (IIC2513)",
       "position": "Teaching Assistant",
       "website": "https://github.com/IIC2233-2015-1",
       "startDate": "2015-03-05",
       "endDate": "2015-12-11",
-      "summary": "This course uses Ruby on Rails as the main framework.",
+      "summary": "This course teaches web development with Ruby on Rails as it's main framework.",
       "highlights": [
         "Designed course architecture on top of Github.",
         "Project reviewer and guide."
@@ -48,7 +90,7 @@
       "website": "https://github.com/IIC2233-2015-1",
       "startDate": "2015-03-05",
       "endDate": "2015-12-11",
-      "summary": "This is the main introductory course to Software Engineering, TI or Computer Sciene degree at the Pontifical Catholic University of Chile. The main programing language is Python.",
+      "summary": "This is the main introductory course to Software Engineering, TI or Computer Science degree at the Pontifical Catholic University of Chile. The main programing language is Python.",
       "highlights": [
         "Course refactoring from C# and SVN to Python and Git to fit current development tools and standards.",
         "Designed course architecture on top of Github.",
@@ -63,7 +105,7 @@
       "website": "https://github.com/IIC2233-2015-1",
       "startDate": "2013-08-05",
       "endDate": "2014-12-11",
-      "summary": "This is the main introductory course to Software Engineering, TI or Computer Sciene degree at the Pontifical Catholic University of Chile. The main programing language was C#."
+      "summary": "This is the main introductory course to Software Engineering, TI or Computer Science degree at the Pontifical Catholic University of Chile. The main programing language was C#."
     },
     {
       "company": "Alma Máter UC",
@@ -85,7 +127,7 @@
       "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2012-03-01",
-      "gpa": "5.04 / 7.0",
+      "gpa": "5.09 / 7.0",
       "courses": [
         "MAT1203 - Linear Algebra",
         "MAT16XX - Calculus",
@@ -98,6 +140,8 @@
         "IIC2343 - Computer Architecture",
         "IIC2413 - Data Bases",
         "IIC2433 - Data Mining",
+        "IIC3633 - Recommender Systems",
+        "IIC2333 - Operating Systems and Networks",
         "IIC2513 - Web Technologies and Applications",
         "IIC3585 - Advanced Web Applications Design",
         "ICS1113 - Optimization",
@@ -117,112 +161,68 @@
     {
       "title": "Startup Weekend Santiago, 2º place",
       "awarder": "santiago.startupweekend.org",
-      "summary": "Development of a iOS app. Contract reminder app for bussiness."
+      "summary": "Development of a iOS app. Contract reminder app for business."
     }
   ],
   "skills": [
     {
       "name": "Coding",
-      "level": "Master",
       "keywords": [
         "Python",
-        "C#",
-        "Go",
-        "Java",
         "Javascript",
-        "Typescript",
+        "C#",
         "Ruby",
+        "Java",
+        "Go",
+        "Swift",
         "Objective-C",
         "C"
       ]
     },
     {
-      "name": "Development",
-      "level": "Master",
-      "keywords": [
-        "Version Control (git)",
-        "Code quality",
-        "Code review",
-        "Documentation",
-        "Unit testing"
-      ]
-    },
-    {
       "name": "Databases",
-      "level": "Master",
       "keywords": [
         "Postgres",
-        "SQLite",
         "MongoDB",
-        "Neo4J",
         "Redis",
         "Realm.io"
       ]
     },
     {
       "name": "Backend Development",
-      "level": "Master",
       "keywords": [
         "Node.js",
         "Express.js",
         "Gin",
         "Ruby on Rails",
         "Sinatra",
-        "Flask"
+        "Python Flask"
       ]
     },
     {
       "name": "Frontend Development",
-      "level": "Master",
       "keywords": [
-        "Angular.js",
         "React.js",
-        "Polymer",
-        "jQuery",
+        "Angular2",
         "HTML",
         "CSS"
       ]
     },
     {
       "name": "Mobile Development",
-      "level": "Master",
       "keywords": [
         "iOS",
         "Android",
         "Windows Phone",
-        "React-Native"
-      ]
-    },
-    {
-      "name": "Desktop Development",
-      "level": "Master",
-      "keywords": [
-        ".NET",
-        "Cross-platform",
-        "CLI"
-      ]
-    },
-    {
-      "name": "Deployment",
-      "level": "Master",
-      "keywords": [
-        "Ubuntu server",
-        "Microservices",
-        "Container-Based architecture",
-        "IaaS",
-        "PaaS",
-        "SaaS",
-        "Continuous integration",
-        "Server monitoring"
+        "React-Native",
+        "Ionic2"
       ]
     },
     {
       "name": "Other",
-      "level": "Master",
       "keywords": [
         "Docker",
-        "nginx",
-        "Library and module development (npm, pypi, gems, cocoapods)"
+        "Library development (npm, pypi, gems, cocoapods)"
       ]
     }
   ],
@@ -234,30 +234,6 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Education",
-      "keywords": [
-        "Teaching"
-      ]
-    },
-    {
-      "name": "Media",
-      "keywords": [
-        "Culture",
-        "Music",
-        "Movies",
-        "Videogames"
-      ]
-    },
-    {
-      "name": "Ideology",
-      "keywords": [
-        "Open Source",
-        "Free Knowledge"
-      ]
     }
   ]
 }
